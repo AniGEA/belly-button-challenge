@@ -14,7 +14,7 @@ This project features an interactive dashboard that enables users to:
 + **Examine Bacteria Abundance:**
     + View the number of bacterial cultures per sample.
     
-Explore the interactive dashboard at [Belly Button Biodiversity Dashboard](file:///Users/anigevorgyan/Downloads/Challenge%2014/index.html) to analyze the dataset directly from your local environment.
+Explore the interactive dashboard at [Belly Button Biodiversity Dashboard(file:///Users/anigevorgyan/Downloads/Challenge%2014/index.html) to analyze the dataset directly from your local environment.
 
 ----------------------------
 
