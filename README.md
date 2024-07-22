@@ -7,6 +7,12 @@ This project provides an interactive dashboard that allows users to select a tes
 
 Explore the interactive dashboard at Belly Button Biodiversity Dashboard to analyze the dataset directly from your local environment.
 
+For more details on the study, visit [Belly Button Biodiversity Project](https://robdunnlab.com/projects/belly-button-biodiversity/). The interactive dashboard provides a platform to explore this dataset by selecting a test subject ID to view their demographic information, the top 10 bacterial cultures found, and the abundance of bacteria cultures per sample.
+
+Explore the interactive dashboard at [Belly Button Biodiversity Dashboard](file:///Users/anigevorgyan/Downloads/Challenge%2014/index.html) to analyze the dataset directly from your local environment.
+
+
+
 file:///Users/anigevorgyan/Downloads/Challenge%2014/index.html
 
 
