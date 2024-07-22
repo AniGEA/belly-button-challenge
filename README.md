@@ -2,7 +2,7 @@
 
 ## Background
 
-Welcome to the Belly Button Biodiversity Challenge! This project delves into the fascinating world of the microbes that inhabit human belly buttons. Our dataset reveals that while a few microbial species, known as operational taxonomic units (OTUs), are found in more than 70% of people, many others are less common.
+Welcome to the Belly Button Biodiversity Challenge! This project delves into the fascinating world of the microbes that inhabit human belly buttons. The dataset reveals that while a few microbial species, known as operational taxonomic units (OTUs), are found in more than 70% of people, many others are less common.
 
 ## Interactive Dashboard
 This project features an interactive dashboard that enables users to:
