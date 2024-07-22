@@ -14,7 +14,7 @@ This project features an interactive dashboard that enables users to:
 + **Examine Bacteria Abundance:**
     + View the number of bacterial cultures per sample.
     
-
+<img width="663" alt="Screenshot 2024-07-22 at 23 50 45" src="https://github.com/user-attachments/assets/ff393a89-edd6-4f53-a7c3-de243cb95527">
 
 
 For more details on the study, visit [Belly Button Biodiversity](https://robdunnlab.com/projects/belly-button-biodiversity/). The interactive dashboard provides a platform to explore this dataset by selecting a test subject ID to view their demographic information, the top 10 bacterial cultures found, and the abundance of bacteria cultures per sample.
