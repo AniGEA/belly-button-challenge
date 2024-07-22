@@ -16,11 +16,12 @@ This project features an interactive dashboard that enables users to:
     + Analyze the top 10 bacterial cultures found in the selected test subject.
 + **Examine Bacteria Abundance:**
     + View the number of bacterial cultures per sample.
-    
+    + 
+    **Belly Button Biodiversity Dashboard**
 <img width="663" alt="Screenshot 2024-07-22 at 23 50 45" src="https://github.com/user-attachments/assets/ff393a89-edd6-4f53-a7c3-de243cb95527">
 
 ---------------
-**Belly Button Biodiversity Dashboard**
+
 
 ## Tools Used
 + **JavaScript:** Powers the app's behavior and dynamically updates the HTML, including demographics data, dropdown menu options, and graph attributes.
