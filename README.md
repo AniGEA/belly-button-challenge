@@ -7,7 +7,7 @@ Welcome to the Belly Button Biodiversity Challenge! This project delves into the
 ## Interactive Dashboard
 This project features an interactive dashboard that enables users to:
 
-+ ###  View Demographic Information:
++ **  View Demographic Information:
   + Select a test subject ID for their demographic details.
 + ### Explore Top 10 Bacterial Cultures:
     + Analyze the top 10 bacterial cultures found in the selected test subject.
