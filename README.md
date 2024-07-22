@@ -4,6 +4,9 @@
 
 Welcome to the Belly Button Biodiversity Challenge! This project delves into the fascinating world of the microbes that inhabit human belly buttons. The dataset reveals that while a few microbial species, known as operational taxonomic units (OTUs), are found in more than 70% of people, many others are less common.
 
+
+For more details on the study, visit [Belly Button Biodiversity](https://robdunnlab.com/projects/belly-button-biodiversity/). 
+
 ## Interactive Dashboard
 This project features an interactive dashboard that enables users to:
 
@@ -15,9 +18,6 @@ This project features an interactive dashboard that enables users to:
     + View the number of bacterial cultures per sample.
     
 <img width="663" alt="Screenshot 2024-07-22 at 23 50 45" src="https://github.com/user-attachments/assets/ff393a89-edd6-4f53-a7c3-de243cb95527">
-
-
-For more details on the study, visit [Belly Button Biodiversity](https://robdunnlab.com/projects/belly-button-biodiversity/). The interactive dashboard provides a platform to explore this dataset by selecting a test subject ID to view their demographic information, the top 10 bacterial cultures found, and the abundance of bacteria cultures per sample.
 
 ---------------
 **Belly Button Biodiversity Dashboard**
